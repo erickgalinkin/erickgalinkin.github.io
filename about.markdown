@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi! I'm Erick Galinkin, AI research lead at Rapid7 and PhD candidate at Drexel University!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+![This is my face](assets/img/erick-headshot)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I'm interested in the interplay between game theory and computer security, but secretly it's all a front to make progress on fundamental issues in computability theory and algorithmic learning theory.
+I also think information geometry is one of the keys to unlocking those secrets, so I do research in that too!
