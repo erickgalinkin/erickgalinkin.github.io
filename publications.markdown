@@ -19,6 +19,8 @@ Erick Galinkin. Johns Hopkins University Masters Thesis
 
 ## Talks
 ### 2021
+**Machine Learning Vulnerabilities and Fabric Choices** Erick Galinkin. PancakesCon2 **Upcoming - March 21 2021**
+
 **What is... Information Geometry?** Erick Galinkin. What is... a seminar? **Upcoming - March 25 2021**
 
 ### 2020
