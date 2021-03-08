@@ -8,7 +8,7 @@ permalink: /publications/
 None, yet.
 
 ### 2020
-**Green Lighting ML: Confidentiality, Integrity, and Availability of Machine Learning Systems in Deployment** Abhishek Gupta, Erick Galinkin. 37th International Conference on Machine Learning, Workshop on Challenges in Deploying and Monitoring Machine Learning Systems [[PDF](/publication/Gupta_2020_Green.pdf)]
+**Green Lighting ML: Confidentiality, Integrity, and Availability of Machine Learning Systems in Deployment** Abhishek Gupta, Erick Galinkin. 37th International Conference on Machine Learning, Workshop on Challenges in Deploying and Monitoring Machine Learning Systems [[PDF](/publications/Gupta_2020_Green.pdf)
 
 **Malicious Network Traffic Detection Via Deep Learning: An Information Theoretic View**
 Erick Galinkin. Johns Hopkins University Masters Thesis
