@@ -5,9 +5,11 @@ permalink: /publications/
 ---
 ## Papers
 ### 2021
-**Information Security Games: A Survey** Erick Galinkin. arXiv preprint [[arXiv](https://arxiv.org/abs/2103.12520)]
+**Winning the Ransomware Lottery** Erick Galinkin. Conference on Decision and Game Theory in Security 2021 [[arxiv](https://arxiv.org/abs/2107.14578)]
 
-**The Influence of Dropout on Membership Inference in Differentially Private Models** Erick Galinkin. arXiv preprint [[arXiv](https://arxiv.org/abs/2103.09008)]
+**Evaluating Attacker Risk Behavior in an Internet of Things Ecosystem** Erick Galinkin, John Carter, Spiros Mancoridis. Conference on Decision and Game Theory in Security 2021 [[arXiv](https://arxiv.org/abs/2109.11592)]
+
+**Information Security Games: A Survey** Erick Galinkin. Drexel University Candidacy Exam [[arXiv](https://arxiv.org/abs/2103.12520)]
 
 ### 2020
 **Green Lighting ML: Confidentiality, Integrity, and Availability of Machine Learning Systems in Deployment** Abhishek Gupta, Erick Galinkin. 37th International Conference on Machine Learning, Workshop on Challenges in Deploying and Monitoring Machine Learning Systems [[PDF](/publications/Gupta_2020_Green.pdf)]
@@ -21,9 +23,13 @@ Erick Galinkin. Johns Hopkins University Masters Thesis
 
 ## Talks
 ### 2021
+**Winning the Ransomware Lottery** Erick Galinkin. Princeton Empirical Studies of Conflict Seminar
+
+**Who's Afraid of Thomas Bayes?** Erick Galinkin. DEF CON 29 AI Village [[Youtube]()]
+
 **Machine Learning Vulnerabilities and Fabric Choices** Erick Galinkin. PancakesCon2 [[Youtube](https://www.youtube.com/watch?v=8Gy8iU6X6wI)]
 
-**What is... Information Geometry?** Erick Galinkin. What is... a seminar? **Upcoming - March 25 2021**
+**What is... Information Geometry?** Erick Galinkin. What is... a seminar?
 
 ### 2020
 **Baby's First 100 MLSec Words** Erick Galinkin. DEF CON AI Village[[Youtube](https://www.youtube.com/watch?v=Xo2KZCbJWCg)]
@@ -37,6 +43,16 @@ Erick Galinkin. Johns Hopkins University Masters Thesis
 
 ## Articles and Blog Posts
 ### 2021
+**The Ransomware Killchain: How It Works, and How to Protect Your Systems** Erick Galinkin. [[Rapid7 Blog](https://www.rapid7.com/blog/post/2021/09/16/the-ransomware-killchain-how-it-works-and-how-to-protect-your-systems/)]
+
+**Slot Machines and Cybercrime: Why Ransomware Won't Quite Pulling Our Lever** Erick Galinkin. [[Rapid7 Blog](https://www.rapid7.com/blog/post/2021/08/06/slot-machines-and-cybercrime-why-ransomware-wont-quit-pulling-our-lever/)]
+
+**Why the Robot Hackers Aren't Here (Yet)** Erick Galinkin. [[Rapid7 Blog](https://www.rapid7.com/blog/post/2021/07/14/why-the-robot-hackers-arent-here-yet/)]
+
+**SolarWinds Serv-U FTP and Managed File Transfer CVE-2021-35211: What you Need to Know** Erick Galinkin. [[Rapid7 Blog](https://www.rapid7.com/blog/post/2021/07/12/solarwinds-serv-u-ftp-and-managed-file-transfer-cve-2021-35211-what-you-need-to-know/)]
+
+**CVE-2021-34527 (PrintNightmare): What you Need to Know** Erick Galinkin. [[Rapid7 Blog](https://www.rapid7.com/blog/post/2021/06/30/cve-2021-1675-printnightmare-patch-does-not-remediate-vulnerability/)]
+
 **AI in Cybersecurity: Six Considerations for 2021** Erick Galinkin. [[Inside Big Data](https://insidebigdata.com/2021/02/25/ai-in-cybersecurity-six-considerations-for-2021/)]
 
 ### 2020
