@@ -27,6 +27,8 @@ Erick Galinkin. Johns Hopkins University Masters Thesis
 
 **Who's Afraid of Thomas Bayes?** Erick Galinkin. DEF CON 29 AI Village [[Youtube]()]
 
+**Challenges in Network Security, Privacy, and the Law** Erick Galinkin. RENCI Workshop on Data for AI in Network Systems [[PDF](/publications/DAINS_workshop.pdf)]
+
 **Machine Learning Vulnerabilities and Fabric Choices** Erick Galinkin. PancakesCon2 [[Youtube](https://www.youtube.com/watch?v=8Gy8iU6X6wI)]
 
 **What is... Information Geometry?** Erick Galinkin. What is... a seminar?
