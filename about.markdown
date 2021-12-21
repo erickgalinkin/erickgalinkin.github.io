@@ -10,7 +10,7 @@ I've also built a number of courses with Udacity:
 * [Machine Learning Engineer for Microsoft Azure](https://www.udacity.com/course/machine-learning-engineer-for-microsoft-azure-nanodegree--nd00333)
 * [DevOps with Microsoft Azure](https://www.udacity.com/course/cloud-devops-using-microsoft-azure-nanodegree--nd082)
 
-![This is my face](/assets/img/erick-headshot.jpg)
+![This is my face](/assets/img/erick-headshot.jpg){ width: 224px; } 
 
 I'm interested in the interplay between **decision theory** and **computer security**, specifically as a way to improve security automation and ease the burden of decision making in security.
 Secretly it's a front to make progress on issues in **computability** and **learning theory**.
