@@ -4,6 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 ## Papers
+### 2022
+**Fast, Lightweight IoT Anomaly Detection Using Feature Pruning and PCA** John Carter, Spiros Mancoridis, Erick Galinkin. ACM/SIGAPP Symposium On Applied Computing
+
 ### 2021
 **Winning the Ransomware Lottery** Erick Galinkin. Conference on Decision and Game Theory in Security 2021 [[arxiv](https://arxiv.org/abs/2107.14578)]
 
@@ -22,10 +25,13 @@ Erick Galinkin. Johns Hopkins University Masters Thesis
 **The Future of Cyber Attacks and Defense is in the Cloud** Erick Galinkin, Jenko Hwong, Abhinav Singh, Colin Estep, Ashwin Vamshi, Ray Canzanese. IEEE 14th International Conference on Malicious and Unwanted Software [[PDF](/publications/Galinkin_MALWARE_2019.pdf)]
 
 ## Talks
+### 2022
+**Information Geometry: A Crash Course** Erick Galinkin. Mini Course on Computation, Harvard University [[Youtube](https://youtu.be/nwSY-fHY4RU)]
+
 ### 2021
 **Winning the Ransomware Lottery** Erick Galinkin. Princeton Empirical Studies of Conflict Seminar
 
-**Who's Afraid of Thomas Bayes?** Erick Galinkin. DEF CON 29 AI Village [[Youtube]()]
+**Who's Afraid of Thomas Bayes?** Erick Galinkin. DEF CON 29 AI Village
 
 **Challenges in Network Security, Privacy, and the Law** Erick Galinkin. RENCI Workshop on Data for AI in Network Systems [[PDF](/publications/DAINS_workshop.pdf)]
 
@@ -44,6 +50,9 @@ Erick Galinkin. Johns Hopkins University Masters Thesis
 **Your Blocklist is Dead. Airgap Everything.** Erick Galinkin. DEF CON Cloud Village [[Youtube](https://www.youtube.com/watch?v=m5NxE9yZjR4)]
 
 ## Articles and Blog Posts
+### 2022
+**Being Naughty To See Who Was Nice: Machine Learning Attacks on Santa's List** Erick Galinkin. [[Rapid7 Blog](https://www.rapid7.com/blog/post/2022/01/14/being-naughty-to-see-who-was-nice-machine-learning-attacks-on-santas-list/)]
+
 ### 2021
 **The Ransomware Killchain: How It Works, and How to Protect Your Systems** Erick Galinkin. [[Rapid7 Blog](https://www.rapid7.com/blog/post/2021/09/16/the-ransomware-killchain-how-it-works-and-how-to-protect-your-systems/)]
 
