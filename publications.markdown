@@ -5,7 +5,9 @@ permalink: /publications/
 ---
 ## Papers
 ### 2022
-**Fast, Lightweight IoT Anomaly Detection Using Feature Pruning and PCA** John Carter, Spiros Mancoridis, Erick Galinkin. ACM/SIGAPP Symposium On Applied Computing
+**Pain Points: Ransomware Data Disclosure Trends** Paul Prudhomme, Erick Galinkin. Rapid7 [[Rapid7 Website](https://www.rapid7.com/info/ransomware-data-disclosure-trends/)]
+
+**Fast, Lightweight IoT Anomaly Detection Using Feature Pruning and PCA** John Carter, Spiros Mancoridis, Erick Galinkin. ACM/SIGAPP Symposium On Applied Computing [[PDF](https://www.cs.drexel.edu/~spiros/papers/SIGAPP22.pdf)]
 
 ### 2021
 **Winning the Ransomware Lottery** Erick Galinkin. Conference on Decision and Game Theory in Security 2021 [[arxiv](https://arxiv.org/abs/2107.14578)]
@@ -26,6 +28,10 @@ Erick Galinkin. Johns Hopkins University Masters Thesis
 
 ## Talks
 ### 2022
+**The Evolving Threat of Ransomware** Erick Galinkin. Rapid7 Research Lounge at RSA Conference.
+
+**Understanding the Cyber Threat Landscape** Erick Galinkin. Gehring Group Invited Speaker.
+
 **Information Geometry: A Crash Course** Erick Galinkin. Mini Course on Computation, Harvard University [[Youtube](https://youtu.be/nwSY-fHY4RU)]
 
 ### 2021
@@ -51,6 +57,12 @@ Erick Galinkin. Johns Hopkins University Masters Thesis
 
 ## Articles and Blog Posts
 ### 2022
+**Architecting for Extortion: Acting on the IST's Blueprint for Ransomware Defense** Erick Galinkin. [[Rapid7 Blog](https://www.rapid7.com/blog/post/2022/09/02/architecting-for-extortion-acting-on-the-ists-blueprint-for-ransomware-defense/)]
+
+**Conti Ransomware Group Internal Chats Leaked Over Russia-Ukraine Conflict** Erick Galinkin [[Rapid7 Blog](https://www.rapid7.com/blog/post/2022/03/01/conti-ransomware-group-internal-chats-leaked-over-russia-ukraine-conflict/)]
+
+**8 Tips for Securing Networks When Time is Scarce** Erick Galinkin. [[Rapid7 Blog](https://www.rapid7.com/blog/post/2022/03/22/8-tips-for-securing-networks-when-time-is-scarce/)]
+
 **Being Naughty To See Who Was Nice: Machine Learning Attacks on Santa's List** Erick Galinkin. [[Rapid7 Blog](https://www.rapid7.com/blog/post/2022/01/14/being-naughty-to-see-who-was-nice-machine-learning-attacks-on-santas-list/)]
 
 ### 2021

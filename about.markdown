@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 # Who I am
-Erick Galinkin, Principal AI researcher at Rapid7 and PhD candidate in computer science at Drexel University.
+Erick Galinkin, Principal AI Researcher at Rapid7 and PhD candidate in computer science at Drexel University.
 I've also built a number of courses with Udacity:
+* [Introduction to Deep Learning](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
 * [Security Architect](https://www.udacity.com/course/security-architect-nanodegree--nd992)
 * [Machine Learning Engineer for Microsoft Azure](https://www.udacity.com/course/machine-learning-engineer-for-microsoft-azure-nanodegree--nd00333)
 * [DevOps with Microsoft Azure](https://www.udacity.com/course/cloud-devops-using-microsoft-azure-nanodegree--nd082)
