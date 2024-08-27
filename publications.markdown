@@ -4,7 +4,22 @@ title: Publications
 permalink: /publications/
 ---
 ## Papers
+
+### 2024
+**garak: a Framework for Security Probing Large Language Models** Leon Derczynski, Erick Galinkin, Jeffrey Martin, Subho Majumdar, Nanna Inie. [[arxiv](https://arxiv.org/abs/2406.11036)]
+
+**AEGIS: Online Adaptive AI Content Safety Moderation with Ensemble of LLM Experts** Shaona Ghosh, Prasoon Varshney, Erick Galinkin, Christopher Parisien. [[arviv](https://arxiv.org/abs/2404.05993)]
+
+**The Price of Pessimism for Automated Defense** Erick Galinkin, Emmanouil Pountourakis, Spiros Mancoridis. Conference on Decision and Game Theory in Security 2024
+
+### 2023
+**Behavioral Malware Detection using a Language Model Classifier Trained on sys2vec Embeddings** John Carter, Pavlos Protopapas, Spiros Mancoridis, Erick Galinkin. 56th Hawaii International Conference on System Sciences [[PDF](https://www.cs.drexel.edu/~mancors/papers/HICSS1-2023.pdf)]
+
+**IoT Malware Data Augmentation using a Generative Adversarial Network** John Carter, Pavlos Protopapas, Spiros Mancoridis, Erick Galinkin. 56th Hawaii International Conference on System Sciences [[PDF](http://johnjohnphotos-media.s3.amazonaws.com/research/IoT%20Malware%20Data%20Augmentation%20using%20a%20Generative%20Adversarial%20Network.pdf)]
+
 ### 2022
+**Simulation of Attacker Defender Interaction in a Noisy Security Game** Erick Galinkin, Emmanouil Pountourakis, John Carter, Spiros Mancoridis. AAAI-23 Workshop on Artificial Intelligence and Cybersecurity (AICS) [[arxiv](https://arxiv.org/abs/2212.04281)]
+
 **Pain Points: Ransomware Data Disclosure Trends** Paul Prudhomme, Erick Galinkin. Rapid7 [[Rapid7 Website](https://www.rapid7.com/info/ransomware-data-disclosure-trends/)]
 
 **Fast, Lightweight IoT Anomaly Detection Using Feature Pruning and PCA** John Carter, Spiros Mancoridis, Erick Galinkin. ACM/SIGAPP Symposium On Applied Computing [[PDF](https://www.cs.drexel.edu/~spiros/papers/SIGAPP22.pdf)]
