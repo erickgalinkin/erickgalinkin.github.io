@@ -42,6 +42,16 @@ Erick Galinkin. Johns Hopkins University Masters Thesis
 **The Future of Cyber Attacks and Defense is in the Cloud** Erick Galinkin, Jenko Hwong, Abhinav Singh, Colin Estep, Ashwin Vamshi, Ray Canzanese. IEEE 14th International Conference on Malicious and Unwanted Software [[PDF](/publications/Galinkin_MALWARE_2019.pdf)]
 
 ## Talks
+### 2024
+**garak** Leon Derczynski, Erick Galinkin. DEF CON 32 Demo Labs
+
+**garak : A Framework for Large Language Model Red Teaming** Leon Derczynski, Erick Galinkin. DEF CON 32 AI Village
+
+### 2023
+**Security Data Science Teams: A Guide to Prestige Classes** Erick Galinkin. BSides Las Vegas 2023 Ground Truth
+
+**AI Caramba! A DC Interface on Machine Learning** Austin Carson, Erick Galinkin, Rumman Chowdhury, Kellee Wicker, Tim Ryan. DEF CON 31 Policy Village
+
 ### 2022
 **The Evolving Threat of Ransomware** Erick Galinkin. Rapid7 Research Lounge at RSA Conference.
 
@@ -71,7 +81,14 @@ Erick Galinkin. Johns Hopkins University Masters Thesis
 **Your Blocklist is Dead. Airgap Everything.** Erick Galinkin. DEF CON Cloud Village [[Youtube](https://www.youtube.com/watch?v=m5NxE9yZjR4)]
 
 ## Articles and Blog Posts
+### 2023
+**Nearly 19,000 ESXi Servers Still Vulnerable to CVE-2021-21974** Erick Galinkin. [[Rapid7 Blog](https://www.rapid7.com/blog/post/2023/02/09/nearly-19-000-esxi-servers-still-vulnerable-to-cve-2021-21974/)]
+
 ### 2022
+**Leaked Android Platform Certificates Create Risks for Users** Erick Galinkin. [[Rapid7 Blog](https://www.rapid7.com/blog/post/2022/12/02/leaked-android-platform-certificates-create-risks-for-users/)]
+
+**CVE-2022-42889: Keep Calm and Stop Saying "Text4Shell"** Erick Galinkin. [[Rapid7 Blog](https://www.rapid7.com/blog/post/2022/10/17/cve-2022-42889-keep-calm-and-stop-saying-4shell/)]
+
 **Architecting for Extortion: Acting on the IST's Blueprint for Ransomware Defense** Erick Galinkin. [[Rapid7 Blog](https://www.rapid7.com/blog/post/2022/09/02/architecting-for-extortion-acting-on-the-ists-blueprint-for-ransomware-defense/)]
 
 **Conti Ransomware Group Internal Chats Leaked Over Russia-Ukraine Conflict** Erick Galinkin [[Rapid7 Blog](https://www.rapid7.com/blog/post/2022/03/01/conti-ransomware-group-internal-chats-leaked-over-russia-ukraine-conflict/)]
