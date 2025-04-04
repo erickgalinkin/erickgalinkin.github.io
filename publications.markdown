@@ -5,10 +5,19 @@ permalink: /publications/
 ---
 ## Papers
 
+### 2025
+**From Gray Hats to White Hats: Bridling the Wild Frontier of NLP Security and Ethics** Heather Lent, Erick Galinkin, Yiyi Chen, Jens Myrup Pedersen, Leon Derczynski, Johannes Bjerva. Transactions of the Association for Computational Linguistics. [[Forthcoming]()]
+
+**Importing Phantoms: Measuring LLM Package Hallucination Vulnerabilities** Arjun Krishna, Erick Galinkin, Leon Derczynski, Jeffrey Martin. [[arxiv](https://arxiv.org/abs/2501.19012)]
+
+**Improved Large Language Model Jailbreak Detection vis Pretrained Embeddings** Erick Galinkin, Martin Sablotny. AAAI Workshop on AI and Cybersecurity (AICS). [[arxiv](https://arxiv.org/abs/2412.01547)]
+
+**Towards Type Agnostic Cyber Defense Agents** Erick Galinkin, Emmanouil Pountourakis, Spiros Mancoridis. AAAI Workshop on AI and Cybersecurity (AICS). [[arxiv](https://arxiv.org/abs/2412.01542)]
+
 ### 2024
 **garak: a Framework for Security Probing Large Language Models** Leon Derczynski, Erick Galinkin, Jeffrey Martin, Subho Majumdar, Nanna Inie. [[arxiv](https://arxiv.org/abs/2406.11036)]
 
-**AEGIS: Online Adaptive AI Content Safety Moderation with Ensemble of LLM Experts** Shaona Ghosh, Prasoon Varshney, Erick Galinkin, Christopher Parisien. [[arviv](https://arxiv.org/abs/2404.05993)]
+**AEGIS: Online Adaptive AI Content Safety Moderation with Ensemble of LLM Experts** Shaona Ghosh, Prasoon Varshney, Erick Galinkin, Christopher Parisien. [[arxiv](https://arxiv.org/abs/2404.05993)]
 
 **The Price of Pessimism for Automated Defense** Erick Galinkin, Emmanouil Pountourakis, Spiros Mancoridis. Conference on Decision and Game Theory in Security 2024
 
@@ -42,6 +51,10 @@ Erick Galinkin. Johns Hopkins University Masters Thesis
 **The Future of Cyber Attacks and Defense is in the Cloud** Erick Galinkin, Jenko Hwong, Abhinav Singh, Colin Estep, Ashwin Vamshi, Ray Canzanese. IEEE 14th International Conference on Malicious and Unwanted Software [[PDF](/publications/Galinkin_MALWARE_2019.pdf)]
 
 ## Talks
+
+### 2025
+**Models and Systems: How to think about vulnerabilities and artificial intelligence** Erick Galinkin. VulnCon 2025
+
 ### 2024
 **garak** Leon Derczynski, Erick Galinkin. DEF CON 32 Demo Labs
 
@@ -81,6 +94,10 @@ Erick Galinkin. Johns Hopkins University Masters Thesis
 **Your Blocklist is Dead. Airgap Everything.** Erick Galinkin. DEF CON Cloud Village [[Youtube](https://www.youtube.com/watch?v=m5NxE9yZjR4)]
 
 ## Articles and Blog Posts
+
+### 2024
+**NVIDIA Presents AI Security Expertise at Leading Cybersecurity Conferences** Becca Lynch, Rich Harang, Erick Galinkin, Leon Derczynski. [[NVIDIA Developer Blog](https://developer.nvidia.com/blog/nvidia-presents-ai-security-expertise-at-leading-cybersecurity-conferences/)]
+
 ### 2023
 **Nearly 19,000 ESXi Servers Still Vulnerable to CVE-2021-21974** Erick Galinkin. [[Rapid7 Blog](https://www.rapid7.com/blog/post/2023/02/09/nearly-19-000-esxi-servers-still-vulnerable-to-cve-2021-21974/)]
 

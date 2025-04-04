@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 # Who I am
-Erick Galinkin, AI Security Researcher at NVIDIA and PhD candidate in computer science at Drexel University.
+Erick Galinkin, AI Security Research Scientist at NVIDIA and PhD candidate in computer science at Drexel University.
+I used to apply AI to security problems, now I apply security to AI problems.
+
 I've also built a number of courses with Udacity:
 * [Introduction to Deep Learning](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
 * [Security Architect](https://www.udacity.com/course/security-architect-nanodegree--nd992)
@@ -14,8 +16,8 @@ I've also built a number of courses with Udacity:
 ![This is my face](/assets/img/erick-headshot.jpg)
 
 I'm interested in the interplay between **decision theory** and **computer security**, specifically as a way to improve security automation and ease the burden of decision making in security.
-Secretly it's a front to make progress on issues in **computability** and **learning theory**.
-I believe that **geometry** is a powerful mathematical tool for these problems, and particularly the resolution of uncertainty, so I also aim to work on issues in that field.
+I end up using a lot of **reinforcement learning** and **game theory** to make these problems tractable, but it's secretly a front to make progress on issues in **computability** and **learning theory**.
+I believe that **geometry** is a powerful mathematical tool for these problems, and particularly the resolution of uncertainty, so I also work on issues in that field.
 
 Because of how much attention artificial intelligence has received and my background in security, I'm also pursuing research in **Security of AI**. 
 This includes research on privacy attacks, poisoning attacks, and adversarial examples.
