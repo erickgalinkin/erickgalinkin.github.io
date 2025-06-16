@@ -5,7 +5,8 @@ permalink: /about/
 ---
 # Who I am
 Erick Galinkin, AI Security Research Scientist at NVIDIA and PhD candidate in computer science at Drexel University.
-I used to apply AI to security problems, now I apply security to AI problems.
+I am also the chair of both the CVE AI Working Group and the CWE AI Working Group.
+I started by applying AI to security problems, now I apply security to AI problems.
 
 I've also built a number of courses with Udacity:
 * [Introduction to Deep Learning](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
@@ -21,6 +22,7 @@ I believe that **geometry** is a powerful mathematical tool for these problems, 
 
 Because of how much attention artificial intelligence has received and my background in security, I'm also pursuing research in **Security of AI**. 
 This includes research on privacy attacks, poisoning attacks, and adversarial examples.
+My work on [garak](htttps://garak.ai) and [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) primarily focuses on the use of adversarial examples (__i.e.__ prompt injection, jailbreaking) to exploit and mitigate issues in LLM-powered agents. 
 
 I'm deeply invested in **AI ethics** -- I spent a year with the [Montreal AI Ethics Institute](montrealethics.ai) working on lowering the barrier to entry for algorithmic accountability, and I co-hosted the first ever algorithmic bias bug bounty with the DEF CON AI Village and Twitter.
 Further, I'm interested in **AI Policy and Regulation** both as a vehicle for advancing AI ethics principles.

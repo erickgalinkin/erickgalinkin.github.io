@@ -6,7 +6,7 @@ permalink: /publications/
 ## Papers
 
 ### 2025
-**From Gray Hats to White Hats: Bridling the Wild Frontier of NLP Security and Ethics** Heather Lent, Erick Galinkin, Yiyi Chen, Jens Myrup Pedersen, Leon Derczynski, Johannes Bjerva. Transactions of the Association for Computational Linguistics. [[Forthcoming]()]
+**NLP Security and Ethics, in the Wild** Heather Lent, Erick Galinkin, Yiyi Chen, Jens Myrup Pedersen, Leon Derczynski, Johannes Bjerva. Transactions of the Association for Computational Linguistics. [[arxiv](https://arxiv.org/abs/2504.06669)]
 
 **Importing Phantoms: Measuring LLM Package Hallucination Vulnerabilities** Arjun Krishna, Erick Galinkin, Leon Derczynski, Jeffrey Martin. [[arxiv](https://arxiv.org/abs/2501.19012)]
 
